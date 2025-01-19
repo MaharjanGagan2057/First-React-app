@@ -4,11 +4,15 @@ export default function App() {
   return (
     
     <div>
-      <h1 style color='pink'>Welcom to my first react app</h1>
-      <p>hello</p>
-      <P> this is my website
-      </P>
-<button>name</button>
+     
+      <p>this is my  first react website</p>
+      
+<div>
+ 
+ welcome
+</div>
+<footer> security@2025.com</footer>
     </div>
+
   )
 } 
