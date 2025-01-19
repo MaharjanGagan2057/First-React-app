@@ -6,9 +6,9 @@ export default function App() {
     <div>
       <h1 style color='pink'>Welcom to my first react app</h1>
       <p>hello</p>
-      <P>
+      <P> this is my website
       </P>
-
+<button>name</button>
     </div>
   )
 } 
